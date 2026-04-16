@@ -1589,7 +1589,7 @@ html { scroll-behavior: smooth; }
   .inconP h3 { font-size: 1.3rem; }
   .textDeroulant { font-size: 150px; }
 
-  .plats { margin-top: -40%; }
+  .plats { margin-top: -17%; }
   .carrouselleVerticale { height: 80px; margin: 15px 0; }
   .imgCarouselle { height: 80px; }
 .imgCarouselle img { height: 50px; }
@@ -1679,6 +1679,7 @@ html { scroll-behavior: smooth; }
   .PTrait { width: 100%; justify-content: center; }
   .containerImg { width: 100%; display: flex; flex-direction: column; align-items: center; }
 
+  .plats {margin-top: -37%;}
   .platsDescription { padding: 30px 10px; }
   .platsDescription .text { width: 100%; font-size: 18px; }
   .bouton-plats { flex-direction: column; align-items: center; width: 80%; }
