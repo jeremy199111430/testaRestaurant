@@ -1589,8 +1589,8 @@ html { scroll-behavior: smooth; }
   .inconP h3 { font-size: 1.3rem; }
   .textDeroulant { font-size: 150px; }
 
-  .plats { margin-top: -17%; }
-  .carrouselleVerticale { height: 80px; margin: 15px 0; }
+  .plats { margin-top: clamp(-200px, -10vw, -80px); }
+    .carrouselleVerticale { height: 80px; margin: 15px 0; }
   .imgCarouselle { height: 80px; }
 .imgCarouselle img { height: 50px; }
 .imgCarouselle .description { height: 30px; }

@@ -175,7 +175,7 @@ window.addEventListener('load', () => {
 
       gsap.to(container, {
         y: direction * singleSetHeight * 2,
-        duration: 200,
+        duration: 40,
         ease: "none",
         repeat: -1,
         modifiers: {
