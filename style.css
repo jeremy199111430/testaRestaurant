@@ -368,7 +368,7 @@ html { scroll-behavior: smooth; }
 .containerTextDeroulant {
   position: absolute;
   width: 130vw;
-  top: 15%;
+  top: 35%;
   left: 0;
   overflow: hidden;
   z-index: 5;
@@ -380,8 +380,9 @@ html { scroll-behavior: smooth; }
   width: max-content;
   font-size: 380px;
   white-space: nowrap;
-  color: rgba(253, 233, 185, 0.1);
+  color: rgb(253 233 185);
   animation: text-anime 60s linear infinite;
+
 }
 
 @keyframes text-anime {
@@ -1208,7 +1209,7 @@ html { scroll-behavior: smooth; }
 }
 
 .inputCarou {
-  width: 90%;
+  width: 80%;
   height: 10%;
   display: flex;
   justify-content: center;

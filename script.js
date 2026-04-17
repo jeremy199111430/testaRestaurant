@@ -58,7 +58,7 @@ function afficheEtat(n) {
 }
 
 afficheEtat(index);
-setInterval(() => { index++; afficheEtat(index); }, 8000);
+setInterval(() => { index++; afficheEtat(index); }, 5000);
 
 
 /* ─────────────────────────────
